@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1791805578 source:c:\users\nfx4m\desktop\practicehw\src\information.cpp
+	"information.h"
+	<string>
+
+1791805648 c:\users\nfx4m\desktop\practicehw\include\information.h
+	<string>
+
